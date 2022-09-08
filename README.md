@@ -1,6 +1,6 @@
 ![Digimon](./digimon.gif)
 
-Hi 👋 I'm Sumin.
+###Hi 👋 I'm Sumin.
 I'm [Seoultech University](https://www.seoultech.ac.kr/index.jsp) student. My major is [Mechanical system design engineering](https://msd.seoultech.ac.kr/) and minor is [Computer Science and Engineering](https://computer.seoultech.ac.kr/).
 
 <!--
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact
-* 3D
-* AR&VR
-* Unity
+  * 3D
+  * AR&VR
+  * Unity
