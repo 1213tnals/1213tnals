@@ -1,3 +1,5 @@
+![Digimon](./digimon.jpg)
+
 ### Hi 👋 I am Sumin, Seoultech University student.
 ### My major is [Mechanical system design engineering](https://msd.seoultech.ac.kr/) and minor is [Computer Science and Engineering](https://computer.seoultech.ac.kr/).
 
