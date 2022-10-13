@@ -10,8 +10,8 @@ I'm [Seoultech University](https://www.seoultech.ac.kr/index.jsp) student. My ma
 Here are some ideas to get you started:
 -->
 
-- 🔍 I’m currently researching on [HRRLAB](http://www.hrrlab.com/), which is the Humanoid Robot Research Lab.
-- 🌱 I’m currently learning Basic Programmings(C++, C#) and how to use the Jetson board and ROS well.
+- 🔍 I’m currently researching on [HRRLAB](http://www.hrrlab.com/), which is Humanoid Robot Research Lab.
+- 🌱 I’m currently learning Basic Programmings(C++, C#, python) and how to use Jetson board and ROS well.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
