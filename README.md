@@ -3,7 +3,7 @@
 ## Hi :smile: I'm Sumin.
 
 I'm [Seoultech University](https://www.seoultech.ac.kr/index.jsp) student.   
-My major is [Mechanical System Design Engineering](https://msd.seoultech.ac.kr/) and double major is [Computer Science and Engineering](https://computer.seoultech.ac.kr/).
+My major is [Mechanical System Design Engineering](https://msd.seoultech.ac.kr/) and double major is [Computer Engineering](https://computer.seoultech.ac.kr/).
 
 <!--
 **1213tnals/1213tnals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
