@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔍 I researched 6Dof manipulator trajectories for automated robot arm system at [HRRLAB](http://www.hrrlab.com/), which is Humanoid Robot Research Lab. While I was a member of that Lab, I also made a intergrated mobile manipulator system which was able to be controlled by VR controller.   
-- 🌱 I’m currently learning AI and Mixed Reality Programming with Unity to make a Human Centered Interacting system. Final goal is to applying Computer Vision and Graphics in my system.   
+- 🌱 I am currently learning 3D reconstruction algorithms and extended reality (XR) programming using Unity to build a human-centered interaction system. My ultimate goal is to create a service that allows people to relive their precious moments, offering them inspiration and empowerment.   
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact
-  * 3D Computer Vision & Computer Graphics
-  * Mixed Reality (AR&VR) & Unity
-  * Human Centered System
+  * 3D Computer Vision & AI
+  * XR & Computer Graphics
+  * Robotics
 
-- 📫 How to reach me: https://www.linkedin.com/in/chosumin/
+- 📫 How to reach me: https://www.linkedin.com/in/chosumin/, https://www.youtube.com/@user-suminn   
